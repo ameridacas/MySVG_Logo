@@ -15,4 +15,4 @@ SVG_Logo_Maker
 
 Github-Deploy="https://ameridacas.github.io/MySVG_Logo/"
 
-Github-Repo="https://github.com/ameridacas/MySVG_Logo"
+Github-Repo="https://github.com/ameridacas/MySVG_Logo/"
