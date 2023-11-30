@@ -8,6 +8,8 @@ For this application I needed to created a SVG Logo Maker that used tests and us
 
 #Mock_UP
 
+Please Click the hyperlink below to view Application working
+
 ![alt MySVG_Logo](./assets/images/MySVG_Logo.jpeg)
 
 #Usage
